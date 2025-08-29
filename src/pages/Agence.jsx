@@ -12,7 +12,6 @@ const Agence = () => {
   const imageRef = useRef(null);
 
   const imageArray = [
-    'https://chus.vn/images/Blog/T%E1%BA%B7ng%20n%E1%BA%BFn%20th%C6%A1m%20cho%20b%E1%BA%A1n%20trai%20%C4%91%C6%B0%E1%BB%A3c%20kh%C3%B4ng/Kh%C3%B4ng%20gian%20s%E1%BB%91ng%20c%C5%A9ng%20l%C3%A0%20m%E1%BB%99t%20y%E1%BA%BFu%20t%E1%BB%95%20quan%20tr%E1%BB%8Dng%20khi%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20t%E1%BA%B7ng%20n%E1%BA%BFn%20th%C6%A1m.jpg?1720993850554',
     'https://images.pexels.com/photos/1123256/pexels-photo-1123256.jpeg',
     'https://images.pexels.com/photos/4099355/pexels-photo-4099355.jpeg',
     'https://images.pexels.com/photos/1721096/pexels-photo-1721096.jpeg',
